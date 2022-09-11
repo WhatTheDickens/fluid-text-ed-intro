@@ -43,7 +43,10 @@ Thoreau moved into his cabin at Walden Pond on July 4, 1845. By March, 1846, Sha
 Thoreau likely returned to the manuscript in 1848-49, possibly starting out with a fair copy, and produced the second and third versions. By February, 1849 he was in correspondence with the publisher W.D. Ticknor about publishing both *Walden* and *A Week on the Concord and Merrimack Rivers* (Shanley, 29-30; Sattelmeyer, 53). In the event, it was James Munroe who published *A Week* in 1849, with an advertisement in its pages for the forthcoming *Walden*. But when *A Week* failed to sell more than about 200 copies, Thoreau put publication of *Walden* on hold. He returned to the manuscript in early 1852, and in the course of 1852-54 he made additional changes in fourth, fifth, and sixth versions that more or less doubled its length. In early 1854 he made a seventh set of revisions, then presumably sent an eighth and final copy of the manuscript (now lost) to Ticknor and Fields before the end of March (Shanley, 32). *Walden* was published in April, 1854.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/HM924_vol_I_p101.jpg" class="wp-image-245 size-full" alt="A manuscript page from HM 924, the manuscript of Walden in the Huntington Library. Used with permission." />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/HM924_vol_I_p101.jpg"
+class="wp-image-245 size-full" 
+alt="A manuscript page from HM 924, the manuscript of Walden in the Huntington Library. Used with permission." />
 <figcaption aria-hidden="true">
 A manuscript page from HM 924, the manuscript of Walden in the Huntington Library. Used with permission.
 </figcaption>
@@ -71,7 +74,10 @@ In *The Making of Walden*, Shanley worked out a chronology of the manuscript ver
 While Shanley’s reconstruction made it possible to compare Thoreau’s first draft of *Walden* to the published work and begin to speculate broadly about the significance of intervening changes, readers still had no way to study particular revisions in detail or to grasp the relationships among versions B-G. As Clapper explains, “Scholars who approached the manuscript could look at the leaves contained in manuscript stages B through G, but they had very little sense of where these leaves fit into the working manuscript” (Email). To throw further light on the progress of the manuscript, Clapper “began with a printed text of *Walden* and seven colored pens (red for stage A, pink for B, orange for C, yellow for D, green for E, blue for F and purple for G), and, reading through each set of manuscript leaves, marked each paragraph of the printed text with the color of the stage in which it first appeared in the manuscript.” He then, “in the form of footnotes, recorded all the substantive variants in the various manuscript versions of that paragraph.”
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/clapper_in_archives_700_cropped-235x300.jpeg" class="wp-image-244 size-medium" alt="Ronald Clapper at work with HM 924 in the Huntington Library in the 1960s. Used with permission." />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/clapper_in_archives_700_cropped-235x300.jpeg"
+class="wp-image-244 size-medium" 
+alt="Ronald Clapper at work with HM 924 in the Huntington Library in the 1960s. Used with permission." />
 <figcaption aria-hidden="true">
 Ronald Clapper at work with HM 924 in the Huntington Library in the 1960s. Used with permission.
 </figcaption>
@@ -82,7 +88,10 @@ Surveying Thoreau’s revisions from 1846 to 1854, Shanley concluded that althou
 Among these studies, *Revising Mythologies* seems particularly attuned to the value of Clapper’s copious footnotes as *data*. Ross and Adams offer some illuminating visualizations of this data that, while primitive in comparison to what modern computing has made possible, still make their point, such as this graph illustrating how unevenly Thoreau revised *Walden*‘s chapters across his seven drafts:
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/stages_6-1024x877.jpg" class="wp-image-246 size-large" alt="Reprinted with the authors’ permission from Stephen Adams Donald Ross, Jr., Revising Mythologies: The Composition of Thoreau’s Major Works, 58" />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/stages_6-1024x877.jpg"
+class="wp-image-246 size-large" 
+alt="Reprinted with the authors’ permission from Stephen Adams Donald Ross, Jr., Revising Mythologies: The Composition of Thoreau’s Major Works, 58" />
 <figcaption aria-hidden="true">
 Reprinted with the authors’ permission from Stephen Adams Donald Ross, Jr., <span style="font-style: none;">Revising Mythologies: The Composition of Thoreau’s Major Works</span>, 58
 </figcaption>
@@ -98,13 +107,9 @@ Yet if all texts are fluid, some “reveal their fluidities more or less fully t
 
 As we have seen, *Walden*‘s fluidity has been obvious since J. Lyndon Shanley first discerned seven distinct stages of composition in the nearly 1200 pages of HM 924. We have seen that this fluidity has also been the subject of significant scholarly study, and thus an exception to the rule that textual fluidity “has been largely ignored” by literary criticism, thanks in large part to Ronald Clapper’s transcription of the manuscript, which remedied to some extent “the problem of access” that Bryant diagnoses as a major reason that “fluid texts have not been analyzed much as fluid texts” (9). Bringing Clapper’s transcription to the web in an interface that makes *Walden*‘s fluidity easy to follow and that gives users access to the data behind the interface will produce, we hope, not only new scholarly perspectives on Thoreau but also expanded attention in courses on literature and writing both to *Walden*‘s fluidity and to the fluid nature of textuality in general.
 
-At the pre-publication stage, the “work” of literature in Bryant’s sense is the work of authorial or editorial revision; consequently, according to Bryant, a fluid-text edition should not only identify sites of revision but provide for each one a revision *narrative*: the editor’s best judgment as to what end or ends the revision was designed to realize (144). Since Clapper’s transcription does not offer such narratives, neither will they be found in *Walden: A Fluid-Text Edition*. Instead, scholars and other writers are invited to propose their own narratives. At present, they can do so by logging into Digital Thoreau’s annotatable version of the published *Walden* at [The Readers’ Thoreau](http://commons.digitalthoreau.org), where the paragraph numbers correspond to those in the fluid text. In the future, we plan to enable readers to attach comments directly to the fluid text itself. Meanwhile, of course, readers will find overarching narratives of Thoreau’s general intentions in revising *Walden* in Shanley, in Clapper’s introduction to the genetic text, and in Sattelmeyer, Adams and Ross, and Milder.
+At the pre-publication stage, the “work” of literature in Bryant’s sense is the work of authorial or editorial revision; consequently, according to Bryant, a fluid-text edition should not only identify sites of revision but provide for each one a revision *narrative*: the editor’s best judgment as to what end or ends the revision was designed to realize (144). Since Clapper’s transcription does not offer such narratives, neither will they be found in *Walden: A Fluid-Text Edition*. However, Digital Thoreau has been exploring how best to approach the question of revision narratives through its [*Walden* Manuscript Project](https://digitalthoreau.org/the-walden-manuscript-project/).
 
-Bryant envisions manuscript images as integral to a fluid-text edition. When a digitized version of HM 924 becomes available for public use, we plan to incorporate images of the individual manuscript leaves so that readers may compare Clapper’s transcription to Thoreau’s handwritten text. We expect that one result will be an improved transcription as mistakes are discovered and cruxes discussed.
-
-Finally, Bryant calls on fluid-text editors to produce “comprehensive” editions that represent not only authorial revisions but non-authorial materials, including cultural adaptations — a worthy but daunting requirement that we currently have no means, and consequently no plans, to fulfill.
-
-In light of the differences between *Walden: A Fluid-Text Edition* and Bryant’s proposed standards for fluid-text editing, one might reasonably ask whether our project has earned its subtitle. We should clarify, then, that we have adopted it not to claim fidelity to Bryant’s standards but rather to invoke his view of textuality and his conviction that textual fluidity is best honored by a thoughtful digital interface with the capacity to incorporate new critical perspectives as they develop.
+This companion project to *Walden: A Fluid-Text Edition* was launched in 2019, five years after the fluid text’s publication, and was made possible by the [Huntington Library](https://www.huntington.org/)’s digitization, with financial support from the [State University of New York](https://online.suny.edu/iitg/view/project-view/entry/733/), of both [HM 924](https://cdm16003.contentdm.oclc.org/digital/collection/p16003coll16) and the corrected publisher’s proof of *Walden*, [HM 925](https://hdl.huntington.org/digital/collection/p16003coll16/id/1560). The project’s most immediate goal is to cross-reference the Huntington’s [IIIF-compliant](https://iiif.io) images of HM 924 with the fluid text, so that, between Thoreau’s own inditing and Clapper’s transcription, readers can better understand how Thoreau worked and re-worked the language and structure of *Walden* within and across versions. But the images also open the door to providing plausible narrative accounts of those revisions. Finding the right way to construct and share these accounts will require some important decisions—at a minimum, decisions about scale (How many changes should a revision narrative encompass?), encoding (What is the best use of TEI to connect narratives, manuscript surfaces, and transcriptions?), interface (How can image, transcription, and narrative be brought together on the screen in a way that best captures the sequential flow of revision?), and inclusiveness (Should the project host narratives constructed by readers other than the editorial team?). Arriving at answers to these questions, and then implementing the solutions implied by those answers, will take time; but the outcome will bring us closer to realizing the vision Bryant articulates.
 
 ### Encoding and other technical matters
 
@@ -115,7 +120,10 @@ Joe Easterly, then Electronic Resources and Digital Scholarship Librarian at SUN
 TEI’s [critical apparatus](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) tagset and [parallel segmentation](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS) method for encoding textual variants were selected, and J. Lyndon Shanley’s edition of *Walden*, published as a volume of the *The Writings of Henry D. Thoreau*, was chosen as the base or “lemma” text to which the seven witnesses, drafts A through G, could be compared.<a href="#fn3" id="fnref3" class="footnoteRef"><sup>3</sup></a> (Clapper had used the 1906 edition for his base text in 1967 but adopted the Shanley edition, published in 1971, for his electronic version.) A series of XSLT transformations written by XML Programmer-Analyst Syd Bauman converts the TEI to HTML for display in the [Versioning Machine](http://v-machine.org), open-source software originally conceived in 2000 by Susan Schreibman, Professor in Digital Humanities at Maynooth University, who continues to oversee development. The Versioning Machine provides a simple interface for comparing textual versions marked up using parallel segmentation.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/reading_interface_top_4.jpg" class="wp-image-247 size-full" alt="The reading interface for Walden: A Fluid-Text Edition" />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/reading_interface_top_4.jpg"
+class="wp-image-247 size-full" 
+alt="The reading interface for Walden: A Fluid-Text Edition" />
 <figcaption aria-hidden="true">
 The reading interface for Walden: A Fluid-Text Edition
 </figcaption>
@@ -126,13 +134,19 @@ As noted above in the description of the *Walden* manuscript, Thoreau’s seven 
 In the comparison below of “Economy” paragraph 2 in Clapper’s genetic text and *Walden: A Fluid-Text Edition*, note that in registering variants to the base phrase “obtrude my affairs so much on the notice of my readers,” Clapper provides information about Versions A and C but not Version B or Versions D-G. To improve readability, the fluid-text edition retains the wording of A in the column for B, assuming no change since none is noted by Clapper, and <span style="background: #e0e0e0;">highlights</span> the words as a reminder that they are merely inferred. Since no changes are noted after C, the fluid-text edition adopts the wording of the published *Walden* of 1854, similarly highlighted, for columns D-G.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/economy_2a_clapper_text_and_note.jpg" class="wp-image-248 size-full" alt="“Economy” paragraph 2 as annotated by Clapper" />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/economy_2a_clapper_text_and_note.jpg"
+class="wp-image-248 size-full" 
+alt="“Economy” paragraph 2 as annotated by Clapper" />
 <figcaption aria-hidden="true">
 “Economy” paragraph 2 as annotated by Clapper
 </figcaption>
 </figure>
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/economy_2a_vm.png" class="wp-image-249 size-full"  alt="“Economy” paragraph 2 as annotated in the fluid-text edition" />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/economy_2a_vm.png"
+class="wp-image-249 size-full" 
+alt="“Economy” paragraph 2 as annotated in the fluid-text edition" />
 <figcaption aria-hidden="true">
 “Economy” paragraph 2 as annotated in the fluid-text edition
 </figcaption>
@@ -143,7 +157,10 @@ Within each version, ~~strikethroughs~~ represent Thoreau’s **cancellations**,
 There are many places where Thoreau’s changes become too complicated to represent through this simple scheme, such as when paragraphs have been re-ordered between versions, or when a passage has been re-worked more than once within a single version; there are also places where it is necessary to understand facts about the material state of the manuscript to grasp how a passage fits into Thoreau’s workflow. In all these cases, the relevant information has been supplied in notes that pop up when a user mouses over a paragraph number. For convenience, these notes are attached to a given paragraph number in every version where that paragraph appears.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/house-warming_popup_note_even_smaller.jpeg" class="wp-image-250 size-full" alt="Certain complex revisions are explained in pop-up notes." />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/house-warming_popup_note_even_smaller.jpeg"
+class="wp-image-250 size-full" 
+alt="Certain complex revisions are explained in pop-up notes." />
 <figcaption aria-hidden="true">
 Certain complex revisions are explained in pop-up notes.
 </figcaption>
@@ -154,7 +171,10 @@ The fluid-text edition retains Clapper’s enumeration of the paragraphs. As in 
 In any panel, clicking on a word or passage that has variants in one or more of the other versions will highlight that word or passage in every open column for comparison. Leah Root, technical lead for Digital Thoreau and Publishing and Web Services Developer at Milne Library, SUNY Geneseo modified Versioning Machine 4.0 to create this scrolling capability.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/scroll_fluid_text_camtasia_reduce.gif" class="wp-image-251 size-full" alt="Click on text that varies across versions to compare. Scroll in columns to align." />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/scroll_fluid_text_camtasia_reduce.gif"
+class="wp-image-251 size-full" 
+alt="Click on text that varies across versions to compare. Scroll in columns to align." />
 <figcaption aria-hidden="true">
 Click on text that varies across versions to compare. Scroll in columns to align.
 </figcaption>
@@ -184,12 +204,15 @@ Adams and Ross argue that Thoreau’s aesthetic outlook shifted from neoclassic 
 
 If we count literature — “poetry” — among these productions, and regard the books of humans as no different from the Book of Nature, then *Walden* becomes for us a work that did not begin as, but ultimately became, a fluid text naming fluidity as the inevitable condition and life-giving principle of literature. This is a convenient revision narrative for an edition of *Walden* that makes the same identification — perhaps too convenient to be entirely trusted. We invite readers to provide alternative narratives, or improvements to this one, in the margins of *Walden* itself, [here](http://commons.digitalthoreau.org/walden/reading/#pNwtActIwhoheiapcAwwicorIsaomiuautaowantlimbtielnorbabfahscdblrcomcobTsaamstbmsTtshimGlahmmgatfttoscalptactBatwwfignobsnrscTncpwesrcswrTanias), [here](http://commons.digitalthoreau.org/walden/spring/spring-1-13/#pTisttohitpoaoNTMebpalWCwdhfuwmtonalTpimetmtlafvTseiictnehllbaigwtwsoslhsamhfcogSIpgfsmrpIknpwficEshscsfbfoeFcfbbTiTflablsfsfbwnmfdhsulbbsbgacl), or elsewhere.
 
-Submitted as a dissertation in 1967, revised and re-typed into digital files in the 1980s, and now encoded in TEI, Ronald Clapper’s attempt to represent the flow of Thoreau’s revisions to *Walden* is itself a fluid text. But in its present version as *Walden: A Fluid-Text Edition*, Clapper’s “work” – his *travaille* – is for the first time designed to be a work-in-progress and thus to be, in its becoming, the work of Clapper *and others*. It is no longer possible to do what Shanley and Clapper did at the Huntington: spread out, sort through, and re-arrange the leaves of *Walden* in an effort to follow the stream of Thoreau’s editorial consciousness. Researchers may not remove the leaves from the plastic sleeves intended, understandably, to protect the manuscript from the ravages of handling. But when the Huntington completes its project to digitize HM 924, and as manuscript leaves held by other institutions and private individuals become available in digital form, any reader with access to these images will be able to do what in the past could only be done by a privileged few: examine the manuscript up close and contribute to our understanding of it. The fluid-text edition will evolve to reflect that evolving understanding. A changelog will record the differences between fluid-text versions as well as updates to the (also fluid) capabilities of the Versioning Machine.
+Submitted as a dissertation in 1967, revised and re-typed into digital files in the 1980s, and now encoded in TEI, Ronald Clapper’s attempt to represent the flow of Thoreau’s revisions to *Walden* is itself a fluid text. But in its present version as *Walden: A Fluid-Text Edition*, Clapper’s “work” – his *travaille* – is for the first time designed to be a work-in-progress and thus to be, in its becoming, the work of Clapper *and others*. It is no longer possible to do what Shanley and Clapper did at the Huntington: spread out, sort through, and re-arrange the leaves of *Walden* in an effort to follow the stream of Thoreau’s editorial consciousness. Researchers may not remove the leaves from the plastic sleeves intended, understandably, to protect the manuscript from the ravages of handling. But between Clapper’s transcription and the Huntington’s freely accessible digital images of HM 924, any reader with an internet connection can now do what in the past could only be done by a privileged few: examine the manuscript up close and contribute to our understanding of it.
 
 In “Where I Lived, and What I Lived For,” Thoreau tells us that he went to the woods to “live deliberately” (90). A few pages later, in “Reading,” he advises us that “Books must be read as deliberately and reservedly as they were written” (101). To deliberate over words and meanings surely constitutes part of what it means to write deliberately; to reconstruct and understand those deliberations as best we can, where we have the luxury of evidence, might be regarded as essential to reading in the same spirit. “The Development of *Walden*: A Genetic Text,” was a first attempt at practicing this kind of deliberate reading extensively on Thoreau’s most famous work. *Walden: A Fluid-Text Edition* builds on that effort, and will continue to build on it, unreservedly, but carefully, gratefully, and deliberately.
 
 <figure>
-<img src="https://digitalthoreau.org/wp-content/uploads/2016/05/Witherell_Clapper_smaller.jpg" class="wp-image-287 size-full" alt="Ronald Clapper and Elizabeth Witherell, editor-in-chief of The Writings of Henry D. Thoreau, with the manuscript of Walden at the Huntington Library, 2013" />
+<img
+src="https://digitalthoreau.org/wp-content/uploads/2016/05/Witherell_Clapper_smaller.jpg"
+class="wp-image-287 size-full" 
+alt="Ronald Clapper and Elizabeth Witherell, editor-in-chief of The Writings of Henry D. Thoreau, with the manuscript of Walden at the Huntington Library, 2013" />
 <figcaption aria-hidden="true">
 Ronald Clapper and Elizabeth Witherell, editor-in-chief of <span style="font-style: normal;">The Writings of Henry D. Thoreau</span>, with the manuscript of <span style="font-style: normal;">Walden</span> at the Huntington Library, 2013
 </figcaption>
@@ -207,8 +230,9 @@ Ronald Clapper and Elizabeth Witherell, editor-in-chief of <span style="font-sty
 - Harding, Walter. “Thoreau’s Works.” *The New Thoreau Handbook*. Ed. Walter Harding and Michael Meyer. New York University Press, 1980.
 - Howarth, William L. *The Literary Manuscripts of Henry David Thoreau*. Ohio State University Press, 1974.
 - Lernout, Geert. “Continental Editorial Theory.” *The Cambridge Companion to Textual Scholarship.* Ed. Neil Fraistat and Julia Flanders. Cambridge University Press, 2013, pp. 61-78.
-- Milder, Robert. *Reimagining Thoreau*. Cambridge University Press, 1995.
-- Moldenhauer, Joseph J. “*Walden* and Wordsworth’s Guide to the English Lake District.” *Studies in the American Renaissance* (1990), pp. 261–292.
+- Milder, Robert. *Reimagining Thoreau*. Cambridge University Press,
+  1995. 
+- Moldenhauer, Joseph J. “*Walden* and Wordsworth’s Guide to the English Lake District.” *Studies in the American Renaissance* (1990), pp. 261–292.
 - Peck, H. Daniel. *Thoreau’s Morning Work: Memory and Perception in <span style="font-style: normal;">A Week on the Concord and Merrimack Rivers,</span> the <span style="font-style: normal;">Journal</span>, and <span style="font-style: normal;">Walden</span>*. Yale University Press, 1990.
 - Richardson, Robert D. *Henry Thoreau: A Life of the Mind*. University of California Press, 1986.
 - Rossi, William. “Following Thoreau’s Instincts.” *More Day to Dawn: Thoreau’s <span style="font-style: normal;">Walden</span> for the Twenty-First Century*. Ed. Sandra Harbert Petrulionis and Laura Dassow Walls. University of Massachusetts Press, 2007, pp. 82-89.
@@ -232,5 +256,4 @@ Ronald Clapper and Elizabeth Witherell, editor-in-chief of <span style="font-sty
     There is something very choice & select in a written word. No wonder Alexander carried his Homer? in a precious casket on his expeditions. A word which may be translated into every dialect and suggests a truth to every mind, is the most perfect work of human art, and as it may be breathed and taken on our lips and as it were become the product of our physical organs and as its sense is of our intellectual — it is the nearest to life itself. It is the simplest and purest channel by which a revelation may be transmitted from age to age. How it subsists itself whole and undiminished till the intelligent reader is born to decypher it. These are the tracks of Zoroaster — of Confucius — and moses — indelible in the sands of the remotest times. (Sattelmeyer, *Journal*, p. 164)[↩](#fnref4)
 
     </div>
-
 </div>
