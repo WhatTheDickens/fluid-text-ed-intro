@@ -1,2 +1,13 @@
-# fluid-text-ed-intro
-Revision history for the editorial intro to Walden: A Fluid-Text Edition at https://digitalthoreau.org
+# Editorial Intro to *Walden: A Fluid-Text Edition*
+
+[*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/) is an edition of Henry David Thoreau's *Walden* based on Ronald E. Clapper's 1967 dissertation "The Development of *Walden*: A Genetic Text." It's a project of [Digital Thoreau](http://digitalthoreau.org).
+
+Thoreau revised *Walden* many times across the seven draft versions he composed between 1847 and 1854. Ronald Clapper revised his dissertation, which tracks Thoreau's revisions, when he re-typed it as digital text in the 1980s.
+
+[*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/) further revises Clapper's dissertation by encoding the information in [TEI](http://tei-c.org).
+
+The editorial introduction to [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/) is bound to undergo revision over time. It's a fluid text, too. Because, what text isn't? The purpose of this repository is to make it possible for users to track substantive revisions to the introduction.
+
+Substantive revisions are packaged as releases. Not every commit reflects a new version that posted to the website, and minor tweaks to the website may not be reflected here.
+
+Version 1.0 was published in 2014.
